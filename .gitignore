@@ -1,9 +1,6 @@
 __pycache__/
 venv/
-*/credentials.resource
 log.html
 output.xml
 report.html
 files/
-*/email.resource
-*/recipients_emails.resource
