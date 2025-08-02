@@ -2,6 +2,6 @@ __pycache__/
 venv/
 */credentials.resource
 log.html
-output.html
+output.xml
 report.html
 files/
